@@ -1,13 +1,13 @@
 def question10_1():
     """
-    answer: False. 
+    answer: 'string' 
     #justification: Noise can still be a problem with count data, as count data may be subject to variability and random fluctuations, leading to noise in the observations.
     """
-    answer: bool=False. 
+    answer: bool=False
     return answer
 
 def question10_2():
-    answer: bool=True. 
+    answer: bool=True
     #justification:The correlation coefficient is a value between -1 and 1, representing the strength and direction of a linear relationship between two sets of real values.
     return answer
 

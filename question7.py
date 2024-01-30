@@ -2,12 +2,14 @@ def question7_1():
     """
     answer = 'string'
     """
+    answer = 'increase/decrease'
     return answer
 
 def question7_2():
     """
     answer = 'string'
     """
+    answer = 'non-increasing'
     return answer
 
 def question7_3():
@@ -16,4 +18,5 @@ def question7_3():
     The representation of inifinity is 'infinity'. 
     bi, ei are floats or 'infinity'. 
     """
-    return answer 
+    answer = [(0,2), (2,3), (3,5), (5,'infinity')]
+    return answer
